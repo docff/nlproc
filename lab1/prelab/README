@@ -1,9 +1,9 @@
 Available rules:
-make run		- Runs A.py for the full extent of the dictionaries, as well as fstI.py, fstG.py
-make sample		- Runs A.py for the first 80 words of both dictionaries, as well as fstI.py, fstG.py
-make compile	- Compiles all FSTs and FSAs created, according to their corresponding .syms and .fst/fsa files
-make draw		- Creates a pdf representation of the FSTs/FSAs
-make clean		- Deletes everything created from the previous commands
+make run	- Runs A.py for the full extent of the dictionaries, as well as fstI.py, fstG.py
+make sample	- Runs A.py for the first 80 words of both dictionaries, as well as fstI.py, fstG.py
+make compile	- Compiles all FSTs and FSAs
+make draw	- Creates a pdf representation of the FSTs/FSAs
+make clean	- Deletes everything created from the previous commands
 
 Runnin the project:
 1. make run/sample 	- Use sample for demonstration purposes.
