@@ -1,6 +1,5 @@
 Available rules:
 ---------------
-<<<<<<< HEAD
 make run	- Runs all the scripts needed for all the versions of the transducers
 make compile	- Compiles all the needed transducers for the final versions
 make clean	- Cleans all the directories including the outputs of the transducers
@@ -9,26 +8,12 @@ make v21	- Runs the transducer of step 12ix with S1
 make v22	- Runs the transducer of step 12ix with S2
 make v31	- Runs the transducer of step 12x with S1
 make v32	- Runs the transducer of step 12x with S2
-=======
-make run			- Runs all the scripts needed for all the versions of the transducers
-make compile  - Compiles all the needed transducers for the final versions
-make clean		- Cleans all the directories including the outputs of the transducers
-make v1				- Runs the transducer of step 11
-make v21			- Runs the transducer of step 12ix with S1
-make v22			- Runs the transducer of step 12ix with S2
-make v31			- Runs the transducer of step 12x with S1
-make v32			- Runs the transducer of step 12x with S2
->>>>>>> e5dc7bd4d00e48c36433c6964020fa2375fd212f
 
 Running the project:
 -------------------
 1. make run
 2. make compile
-<<<<<<< HEAD
 3. make vX	- X stands for the version of the transducer
-=======
-3. make vX		- X stands for the version of the transducer
->>>>>>> e5dc7bd4d00e48c36433c6964020fa2375fd212f
 
 Outputs:
 -------
