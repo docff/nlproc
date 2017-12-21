@@ -1,0 +1,1013 @@
+GEIA : ΓΕΙΑ 
+-> 	ΓΕΙΑ : CORRECT
+SOU : ΣΟΥ 
+-> 	ΣΟΥ : CORRECT
+APO : ΑΠΟ 
+-> 	ΑΠΟ : CORRECT
+TIN : ΤΗΝ 
+-> 	ΤΗΝ : CORRECT
+ELLADA : ΕΛΛΑΔΑ 
+-> 	ΕΛΛΑΔΑ : CORRECT
+TA : ΤΑ 
+-> 	ΤΑ : CORRECT
+PRAGMATA : ΠΡΑΓΜΑΤΑ 
+-> 	ΠΡΑΓΜΑΤΑ : CORRECT
+EDO : ΕΔΩ 
+-> 	ΕΔΩ : CORRECT
+PROXOROUN : ΠΡΟΧΩΡΟΥΝ 
+-> 	ΠΡΟΧΩΡΟΥΝ : CORRECT
+AISIOS : ΑΙΣΙΩΣ 
+-> 	ΑΙΣΙΟΣ : WRONG
+TO : ΤΟ 
+-> 	ΤΟ : CORRECT
+POSOSTO : ΠΟΣΟΣΤΟ 
+-> 	ΠΟΣΟΣΤΟ : CORRECT
+ANAGNORISIS : ΑΝΑΓΝΩΡΙΣΗΣ 
+-> 	ΑΝΑΓΝΩΡΙΣΙΣ : WRONG
+EXEI : ΕΧΕΙ 
+-> 	ΕΧΕΙ : CORRECT
+FTASEI : ΦΤΑΣΕΙ 
+-> 	ΦΤΑΣΕΙ : CORRECT
+STO : ΣΤΟ 
+-> 	ΣΤΟ : CORRECT
+ME : ΜΕ 
+-> 	ΜΕ : CORRECT
+TIN : ΤΗΝ 
+-> 	ΤΗΝ : CORRECT
+XRISI : ΧΡΗΣΗ 
+-> 	ΧΡΙΣΗ : WRONG
+MIXTURES : MIXTURES 
+-> 	MIXTURES : CORRECT
+KAI : ΚΑΙ 
+-> 	ΚΑΙ : CORRECT
+ANEVAINEI : ΑΝΕΒΑΙΝΕΙ 
+-> 	ΑΝΕΒΑΙΝΕΙ : CORRECT
+SIGA : ΣΙΓΑ 
+-> 	ΣΙΓΑ : CORRECT
+SIGA : ΣΙΓΑ 
+-> 	ΣΙΓΑ : CORRECT
+THA : ΘΑ 
+-> 	ΘΑ : CORRECT
+ARXISO : ΑΡΧΙΣΩ 
+-> 	ΑΡΧΙΣΩ : CORRECT
+TIN : ΤΗΝ 
+-> 	ΤΗΝ : CORRECT
+XRISI : ΧΡΗΣΗ 
+-> 	ΧΡΙΣΗ : WRONG
+TON : ΤΟΝ 
+-> 	ΤΟΝ : CORRECT
+DIKON : ΔΙΚΩΝ 
+-> 	ΔΙΚΩΝ : CORRECT
+MAS : ΜΑΣ 
+-> 	ΜΑΣ : CORRECT
+FEATURES : FEATURES 
+-> 	FEATURES : CORRECT
+DIAVASA : ΔΙΑΒΑΣΑ 
+-> 	ΔΙΑΒΑΣΑ : CORRECT
+ARKETA : ΑΡΚΕΤΑ 
+-> 	ΑΡΚΕΤΑ : CORRECT
+KALA : ΚΑΛΑ 
+-> 	ΚΑΛΑ : CORRECT
+TO : ΤΟ 
+-> 	ΤΟ : CORRECT
+MANUAL : MANUAL 
+-> 	MANUAL : CORRECT
+KATHOS : ΚΑΘΩΣ 
+-> 	ΚΑΘΩΣ : CORRECT
+KAI : ΚΑΙ 
+-> 	ΚΑΙ : CORRECT
+TON : ΤΟΝ 
+-> 	ΤΟΝ : CORRECT
+KODIKA : ΚΩΔΙΚΑ 
+-> 	ΚΩΔΙΚΑ : CORRECT
+POU : ΠΟΥ 
+-> 	ΠΟΥ : CORRECT
+MOU : ΜΟΥ 
+-> 	ΜΟΥ : CORRECT
+ESTEILES : ΕΣΤΕΙΛΕΣ 
+-> 	 : UNMATCHED
+ALLA : ΑΛΛΑ 
+-> 	ΑΛΛΑ : CORRECT
+DEN : ΔΕΝ 
+-> 	ΔΕΝ : CORRECT
+EXO : ΕΧΩ 
+-> 	ΕΧΩ : CORRECT
+KATALAVEI : ΚΑΤΑΛΑΒΕΙ 
+-> 	ΚΑΤΑΛΑΒΕΙ : CORRECT
+POS : ΠΩΣ 
+-> 	ΠΩΣ : CORRECT
+MPORO : ΜΠΟΡΩ 
+-> 	ΜΠΟΡΩ : CORRECT
+NA : ΝΑ 
+-> 	ΝΑ : CORRECT
+KANO : ΚΑΝΩ 
+-> 	ΚΑΝΟ : WRONG
+KAPOIO : ΚΑΠΟΙΟ 
+-> 	ΚΑΠΟΙΟ : CORRECT
+SINDIASMO : ΣΥΝΔΥΑΣΜΟ 
+-> 	ΣΥΝΔΥΑΣΜΟ : CORRECT
+DIO : ΔΥΟ 
+-> 	ΔΙΟ : WRONG
+I : Η 
+-> 	Ι : WRONG
+PERISSOTERON : ΠΕΡΙΣΣΟΤΕΡΩΝ 
+-> 	ΠΕΡΙΣΣΟΤΕΡΟΝ : WRONG
+FEATURES : FEATURES 
+-> 	FEATURES : CORRECT
+ME : ΜΕ 
+-> 	ΜΕ : CORRECT
+TIN : ΤΗΝ 
+-> 	ΤΗΝ : CORRECT
+XRISI : ΧΡΗΣΗ 
+-> 	ΧΡΙΣΗ : WRONG
+VARON : ΒΑΡΩΝ 
+-> 	ΒΑΡΩΝ : CORRECT
+EIDA : ΕΙΔΑ 
+-> 	ΕΙΔΑ : CORRECT
+OTI : ΟΤΙ 
+-> 	ΟΤΙ : CORRECT
+MPORO : ΜΠΟΡΩ 
+-> 	ΜΠΟΡΩ : CORRECT
+NA : ΝΑ 
+-> 	ΝΑ : CORRECT
+EISAGAGO : ΕΙΣΑΓΑΓΩ 
+-> 	ΕΙΣΑΓΑΓΩ : CORRECT
+TA : ΤΑ 
+-> 	ΤΑ : CORRECT
+XARAKTIRISTIKA : ΧΑΡΑΚΤΗΡΙΣΤΙΚΑ 
+-> 	ΧΑΡΑΚΤΗΡΙΣΤΙΚΑ : CORRECT
+MAS : ΜΑΣ 
+-> 	ΜΑΣ : CORRECT
+ALLA : ΑΛΛΑ 
+-> 	ΑΛΛΑ : CORRECT
+DEN : ΔΕΝ 
+-> 	ΔΕΝ : CORRECT
+EXO : ΕΧΩ 
+-> 	ΕΧΩ : CORRECT
+KATALAVEI : ΚΑΤΑΛΑΒΕΙ 
+-> 	ΚΑΤΑΛΑΒΕΙ : CORRECT
+AN : ΑΝ 
+-> 	ΑΝ : CORRECT
+MPORO : ΜΠΟΡΩ 
+-> 	ΜΠΟΡΩ : CORRECT
+NA : ΝΑ 
+-> 	ΝΑ : CORRECT
+TO : ΤΟ 
+-> 	ΤΟ : CORRECT
+KANO : ΚΑΝΩ 
+-> 	ΚΑΝΟ : WRONG
+AUTO : ΑΥΤΟ 
+-> 	ΑΥΤΟ : CORRECT
+XRISIMOPOIONTAS : ΧΡΗΣΙΜΟΠΟΙΩΝΤΑΣ 
+-> 	ΧΡΗΣΙΜΟΠΟΙΩΝΤΑΣ : CORRECT
+KAI : ΚΑΙ 
+-> 	ΚΑΙ : CORRECT
+TA : ΤΑ 
+-> 	ΤΑ : CORRECT
+SYNITHISMENA : ΣΥΝΗΘΙΣΜΕΝΑ 
+-> 	ΣΥΝΗΘΙΣΜΕΝΑ : CORRECT
+XARAKTHRISTIKA : ΧΑΡΑΚΤΗΡΙΣΤΙΚΑ 
+-> 	ΧΑΡΑΚΤΗΡΙΣΤΙΚΑ : CORRECT
+ITHELA : ΗΘΕΛΑ 
+-> 	ΗΘΕΛΑ : CORRECT
+NA : ΝΑ 
+-> 	ΝΑ : CORRECT
+MATHO : ΜΑΘΩ 
+-> 	ΜΑΘΟ : WRONG
+AN : ΑΝ 
+-> 	ΑΝ : CORRECT
+MPORO : ΜΠΟΡΩ 
+-> 	ΜΠΟΡΩ : CORRECT
+NA : ΝΑ 
+-> 	ΝΑ : CORRECT
+BALO : ΒΑΛΩ 
+-> 	ΒΑΛΩ : CORRECT
+SINTELESTI : ΣΥΝΤΕΛΕΣΤΗ 
+-> 	ΣΥΝΤΕΛΕΣΤΗ : CORRECT
+VARITITAS : ΒΑΡΥΤΗΤΑΣ 
+-> 	ΒΑΡΥΤΗΤΑΣ : CORRECT
+PX : ΠΧ 
+-> 	ΠΧ : CORRECT
+KAI : ΚΑΙ 
+-> 	ΚΑΙ : CORRECT
+TA : ΤΑ 
+-> 	ΤΑ : CORRECT
+DIKA : ΔΙΚΑ 
+-> 	ΔΙΚΑ : CORRECT
+MOU : ΜΟΥ 
+-> 	ΜΟΥ : CORRECT
+FEATURES : FEATURES 
+-> 	FEATURES : CORRECT
+ME : ΜΕ 
+-> 	ΜΕ : CORRECT
+VARITITA : ΒΑΡΥΤΗΤΑ 
+-> 	ΒΑΡΥΤΗΤΑ : CORRECT
+GINETAI : ΓΙΝΕΤΑΙ 
+-> 	ΓΙΝΕΤΑΙ : CORRECT
+AUTO : ΑΥΤΟ 
+-> 	ΑΥΤΟ : CORRECT
+O : Ο 
+-> 	Ο : CORRECT
+PETROS : ΠΕΤΡΟΣ 
+-> 	ΠΕΤΡΟΣ : CORRECT
+MOU : ΜΟΥ 
+-> 	ΜΟΥ : CORRECT
+EIPE : ΕΙΠΕ 
+-> 	ΕΙΠΕ : CORRECT
+OTI : ΟΤΙ 
+-> 	ΟΤΙ : CORRECT
+KATI : ΚΑΤΙ 
+-> 	ΚΑΤΙ : CORRECT
+TETOIO : ΤΕΤΟΙΟ 
+-> 	ΤΕΤΟΙΟ : CORRECT
+TO : ΤΟ 
+-> 	ΤΟ : CORRECT
+EXEIS : ΕΧΕΙΣ 
+-> 	ΕΧΕΙΣ : CORRECT
+KANEI : ΚΑΝΕΙ 
+-> 	ΚΑΝΕΙ : CORRECT
+STO : ΣΤΟ 
+-> 	ΣΤΟ : CORRECT
+PARELTHON : ΠΑΡΕΛΘΟΝ 
+-> 	ΠΑΡΕΛΘΟΝ : CORRECT
+EUXARISTO : ΕΥΧΑΡΙΣΤΩ 
+-> 	ΕΥΧΑΡΙΣΤΟ : WRONG
+POLY : ΠΟΛΥ 
+-> 	ΠΟΛΥ : CORRECT
+GIA : ΓΙΑ 
+-> 	ΓΙΑ : CORRECT
+TIN : ΤΗΝ 
+-> 	ΤΗΝ : CORRECT
+VOITHEIA : ΒΟΗΘΕΙΑ 
+-> 	ΒΟΗΘΕΙΑ : CORRECT
+SOU : ΣΟΥ 
+-> 	ΣΟΥ : CORRECT
+KAI : ΚΑΙ 
+-> 	ΚΑΙ : CORRECT
+PALI : ΠΑΛΙ 
+-> 	ΠΑΛΙ : CORRECT
+ELA : ΕΛΑ 
+-> 	ΕΛΑ : CORRECT
+TI : ΤΙ 
+-> 	ΤΙ : CORRECT
+GINETAI : ΓΙΝΕΤΑΙ 
+-> 	ΓΙΝΕΤΑΙ : CORRECT
+PWS : ΠΩΣ 
+-> 	ΠΩΣ : CORRECT
+EINAI : ΕΙΝΑΙ 
+-> 	ΕΙΝΑΙ : CORRECT
+EPANILTHE : ΕΠΑΝΗΛΘΕ 
+-> 	ΕΠΑΝΗΛΘΕ : CORRECT
+O : Ο 
+-> 	Ο : CORRECT
+RUTHMOS : ΡΥΘΜΟΣ 
+-> 	ΡΥΘΜΟΣ : CORRECT
+APO : ΑΠΟ 
+-> 	ΑΠΟ : CORRECT
+TO : ΤΟ 
+-> 	ΤΟ : CORRECT
+SOK : ΣΟΚ 
+-> 	ΣΟΚ : CORRECT
+I : Η 
+-> 	Ι : WRONG
+OXI : ΟΧΙ 
+-> 	ΟΧΙ : CORRECT
+AKOMA : ΑΚΟΜΑ 
+-> 	ΑΚΟΜΑ : CORRECT
+STO : ΣΤΟ 
+-> 	ΣΤΟ : CORRECT
+METAKSI : ΜΕΤΑΞΥ 
+-> 	ΜΕΤΑΞΙ : WRONG
+DE : ΔΕ 
+-> 	ΔΕ : CORRECT
+MOU : ΜΟΥ 
+-> 	ΜΟΥ : CORRECT
+EXEIS : ΕΧΕΙΣ 
+-> 	ΕΧΕΙΣ : CORRECT
+STEILEI : ΣΤΕΙΛΕΙ 
+-> 	ΣΤΕΙΛΕΙ : CORRECT
+KATI : ΚΑΤΙ 
+-> 	ΚΑΤΙ : CORRECT
+KAINOURIO : ΚΑΙΝΟΥΡΙΟ 
+-> 	ΚΑΙΝΟΥΡΙΟ : CORRECT
+SXETIKA : ΣΧΕΤΙΚΑ 
+-> 	ΣΧΕΤΙΚΑ : CORRECT
+ME : ΜΕ 
+-> 	ΜΕ : CORRECT
+TO : ΤΟ 
+-> 	ΤΟ : CORRECT
+PROJECT : PROJECT 
+-> 	PROJECT : CORRECT
+POU : ΠΟΥ 
+-> 	ΠΟΥ : CORRECT
+MOU : ΜΟΥ 
+-> 	ΜΟΥ : CORRECT
+ANEFERES : ΑΝΕΦΕΡΕΣ 
+-> 	ΑΝΕΦΕΡΕΣ : CORRECT
+SUNEXIZEI : ΣΥΝΕΧΙΖΕΙ 
+-> 	ΣΥΝΕΧΙΖΕΙ : CORRECT
+NA : ΝΑ 
+-> 	ΝΑ : CORRECT
+UFISTATAI : ΥΦΙΣΤΑΤΑΙ 
+-> 	ΥΦΙΣΤΑΤΑΙ : CORRECT
+PROXWRAEI : ΠΡΟΧΩΡΑΕΙ 
+-> 	ΠΡΟΧΩΡΑΕΙ : CORRECT
+STEILE : ΣΤΕΙΛΕ 
+-> 	ΣΤΕΙΛΕ : CORRECT
+MOU : ΜΟΥ 
+-> 	ΜΟΥ : CORRECT
+KAPOIA : ΚΑΠΟΙΑ 
+-> 	ΚΑΠΟΙΑ : CORRECT
+STIGMI : ΣΤΙΓΜΗ 
+-> 	ΣΤΙΓΜΗ : CORRECT
+KAPOIO : ΚΑΠΟΙΟ 
+-> 	ΚΑΠΟΙΟ : CORRECT
+SUNTOMO : ΣΥΝΤΟΜΟ 
+-> 	ΣΥΝΤΟΜΟ : CORRECT
+EPEKSIGIMATIKO : ΕΠΕΞΗΓΗΜΑΤΙΚΟ 
+-> 	ΕΠΕΞΗΓΗΜΑΤΙΚΟ : CORRECT
+KEIMENO : ΚΕΙΜΕΝΟ 
+-> 	ΚΕΙΜΕΝΟ : CORRECT
+H : Η 
+-> 	Η : CORRECT
+DIADIKASIA : ΔΙΑΔΙΚΑΣΙΑ 
+-> 	ΔΙΑΔΙΚΑΣΙΑ : CORRECT
+TWRA : ΤΩΡΑ 
+-> 	ΤΩΡΑ : CORRECT
+EINAI : ΕΙΝΑΙ 
+-> 	ΕΙΝΑΙ : CORRECT
+OTI : ΟΤΙ 
+-> 	ΟΤΙ : CORRECT
+TO : ΤΟ 
+-> 	ΤΟ : CORRECT
+TMHMA : ΤΜΗΜΑ 
+-> 	ΤΜΗΜΑ : CORRECT
+THA : ΘΑ 
+-> 	ΘΑ : CORRECT
+STEILEI : ΣΤΕΙΛΕΙ 
+-> 	ΣΤΕΙΛΕΙ : CORRECT
+TO : ΤΟ 
+-> 	ΤΟ : CORRECT
+PRAKTIKO : ΠΡΑΚΤΙΚΟ 
+-> 	ΠΡΑΚΤΙΚΟ : CORRECT
+STH : ΣΤΗ 
+-> 	ΣΤΗ : CORRECT
+DIEUTHUNSH : ΔΙΕΥΘΥΝΣΗ 
+-> 	ΔΙΕΥΘΥΝΣΗ : CORRECT
+META : ΜΕΤΑ 
+-> 	ΜΕΤΑ : CORRECT
+STO : ΣΤΟ 
+-> 	ΣΤΟ : CORRECT
+UPOURGEIO : ΥΠΟΥΡΓΕΙΟ 
+-> 	ΥΠΟΥΡΓΕΙΟ : CORRECT
+GIA : ΓΙΑ 
+-> 	ΓΙΑ : CORRECT
+ELEGXO : ΕΛΕΓΧΟ 
+-> 	ΕΛΕΓΧΟ : CORRECT
+KAI : ΚΑΙ 
+-> 	ΚΑΙ : CORRECT
+META : ΜΕΤΑ 
+-> 	ΜΕΤΑ : CORRECT
+THA : ΘΑ 
+-> 	ΘΑ : CORRECT
+AKOLOUTHISEI : ΑΚΟΛΟΥΘΗΣΕΙ 
+-> 	ΑΚΟΛΟΥΘΗΣΕΙ : CORRECT
+H : Η 
+-> 	Η : CORRECT
+PROKHRUKSH : ΠΡΟΚΗΡΥΞΗ 
+-> 	ΠΡΟΚΗΡΥΞΗ : CORRECT
+PISTEUW : ΠΙΣΤΕΥΩ 
+-> 	ΠΙΣΤΕΥΩ : CORRECT
+ARXES : ΑΡΧΕΣ 
+-> 	ΑΡΧΕΣ : CORRECT
+TOU : ΤΟΥ 
+-> 	ΤΟΥ : CORRECT
+ETOUS : ΕΤΟΥΣ 
+-> 	ΕΤΟΥΣ : CORRECT
+MEXRI : ΜΕΧΡΙ 
+-> 	ΜΕΧΡΙ : CORRECT
+THN : ΤΗΝ 
+-> 	ΤΗΝ : CORRECT
+ANOIKSH : ΑΝΟΙΞΗ 
+-> 	ΑΝΟΙΞΗ : CORRECT
+THA : ΘΑ 
+-> 	ΘΑ : CORRECT
+GINEI : ΓΙΝΕΙ 
+-> 	ΓΙΝΕΙ : CORRECT
+AUTO : ΑΥΤΟ 
+-> 	ΑΥΤΟ : CORRECT
+OPOTE : ΟΠΟΤΕ 
+-> 	ΟΠΟΤΕ : CORRECT
+KAI : ΚΑΙ 
+-> 	ΚΑΙ : CORRECT
+THA : ΘΑ 
+-> 	ΘΑ : CORRECT
+PREPEI : ΠΡΕΠΕΙ 
+-> 	ΠΡΕΠΕΙ : CORRECT
+NA : ΝΑ 
+-> 	ΝΑ : CORRECT
+YPOBALLEIS : ΥΠΟΒΑΛΛΕΙΣ 
+-> 	 : UNMATCHED
+THN : ΤΗΝ 
+-> 	ΤΗΝ : CORRECT
+AITHSH : ΑΙΤΗΣΗ 
+-> 	ΑΙΤΗΣΗ : CORRECT
+SOU : ΣΟΥ 
+-> 	ΣΟΥ : CORRECT
+TOTE : ΤΟΤΕ 
+-> 	ΤΟΤΕ : CORRECT
+GEIA : ΓΕΙΑ 
+-> 	ΓΕΙΑ : CORRECT
+SOU : ΣΟΥ 
+-> 	ΣΟΥ : CORRECT
+ELPIZW : ΕΛΠΙΖΩ 
+-> 	ΕΛΠΙΖΩ : CORRECT
+OLA : ΟΛΑ 
+-> 	ΟΛΑ : CORRECT
+NA : ΝΑ 
+-> 	ΝΑ : CORRECT
+PHGAINOUN : ΠΗΓΑΙΝΟΥΝ 
+-> 	ΠΗΓΑΙΝΟΥΝ : CORRECT
+KAT : ΚΑΤ 
+-> 	ΚΑΤ : CORRECT
+EYXHN : ΕΥΧΗΝ 
+-> 	ΕΥΧΗΝ : CORRECT
+EGW : ΕΓΩ 
+-> 	ΕΓΩ : CORRECT
+STASIMOS : ΣΤΑΣΙΜΟΣ 
+-> 	ΣΤΑΣΙΜΟΣ : CORRECT
+ME : ΜΕ 
+-> 	ΜΕ : CORRECT
+THN : ΤΗΝ 
+-> 	ΤΗΝ : CORRECT
+DOULEIA : ΔΟΥΛΕΙΑ 
+-> 	ΔΟΥΛΕΙΑ : CORRECT
+DEN : ΔΕΝ 
+-> 	ΔΕΝ : CORRECT
+EIXA : ΕΙΧΑ 
+-> 	ΕΙΧΑ : CORRECT
+THN : ΤΗΝ 
+-> 	ΤΗΝ : CORRECT
+ANAMENOMENH : ΑΝΑΜΕΝΟΜΕΝΗ 
+-> 	ΑΝΑΜΕΝΟΜΕΝΗ : CORRECT
+EJELIJH : ΕΞΕΛΙΞΗ 
+-> 	ΕΞΕΛΙΞΗ : CORRECT
+YPARXOUN : ΥΠΑΡΧΟΥΝ 
+-> 	ΥΠΑΡΧΟΥΝ : CORRECT
+AKOMA : ΑΚΟΜΑ 
+-> 	ΑΚΟΜΑ : CORRECT
+KAPOIES : ΚΑΠΟΙΕΣ 
+-> 	ΚΑΠΟΙΕΣ : CORRECT
+ELPIDES : ΕΛΠΙΔΕΣ 
+-> 	ΕΛΠΙΔΕΣ : CORRECT
+GIA : ΓΙΑ 
+-> 	ΓΙΑ : CORRECT
+TO : ΤΟ 
+-> 	ΤΟ : CORRECT
+ALLO : ΑΛΛΟ 
+-> 	ΑΛΛΟ : CORRECT
+THEMA : ΘΕΜΑ 
+-> 	ΘΕΜΑ : CORRECT
+EGINE : ΕΓΙΝΕ 
+-> 	ΕΓΙΝΕ : CORRECT
+MIA : ΜΙΑ 
+-> 	ΜΙΑ : CORRECT
+KALH : ΚΑΛΗ 
+-> 	ΚΑΛΗ : CORRECT
+GNWRIMIA : ΓΝΩΡΙΜΙΑ 
+-> 	ΓΝΩΡΙΜΙΑ : CORRECT
+TO : ΤΟ 
+-> 	ΤΟ : CORRECT
+SABBATO : ΣΑΒΒΑΤΟ 
+-> 	ΣΑΒΒΑΤΟ : CORRECT
+H : Η 
+-> 	Η : CORRECT
+EBDOMADA : ΕΒΔΟΜΑΔΑ 
+-> 	ΕΒΔΟΜΑΔΑ : CORRECT
+THA : ΘΑ 
+-> 	ΘΑ : CORRECT
+DIJEI : ΔΕΙΞΕΙ 
+-> 	ΔΕΙΞΕΙ : CORRECT
+AN : ΑΝ 
+-> 	ΑΝ : CORRECT
+THA : ΘΑ 
+-> 	ΘΑ : CORRECT
+PAEI : ΠΑΕΙ 
+-> 	ΠΑΕΙ : CORRECT
+KALA : ΚΑΛΑ 
+-> 	ΚΑΛΑ : CORRECT
+THN : ΤΗΝ 
+-> 	ΤΗΝ : CORRECT
+ADEIA : ΑΔΕΙΑ 
+-> 	ΑΔΕΙΑ : CORRECT
+POU : ΠΟΥ 
+-> 	ΠΟΥ : CORRECT
+EIXA : ΕΙΧΑ 
+-> 	ΕΙΧΑ : CORRECT
+PROGRAMMATISEI : ΠΡΟΓΡΑΜΜΑΤΙΣΕΙ 
+-> 	ΠΡΟΓΡΑΜΜΑΤΙΣΕΙ : CORRECT
+GIA : ΓΙΑ 
+-> 	ΓΙΑ : CORRECT
+THN : ΤΗΝ 
+-> 	ΤΗΝ : CORRECT
+ALLH : ΑΛΛΗ 
+-> 	ΑΛΛΗ : CORRECT
+EBDOMADA : ΕΒΔΟΜΑΔΑ 
+-> 	ΕΒΔΟΜΑΔΑ : CORRECT
+THA : ΘΑ 
+-> 	ΘΑ : CORRECT
+THN : ΤΗΝ 
+-> 	ΤΗΝ : CORRECT
+ANABALLW : ΑΝΑΒΑΛΛΩ 
+-> 	ΑΝΑΒΑΛΛΩ : CORRECT
+GIA : ΓΙΑ 
+-> 	ΓΙΑ : CORRECT
+TELEUTAIA : ΤΕΛΕΥΤΑΙΑ 
+-> 	 : UNMATCHED
+EBDOMADA : ΕΒΔΟΜΑΔΑ 
+-> 	ΕΒΔΟΜΑΔΑ : CORRECT
+IOULIOU : ΙΟΥΛΙΟΥ 
+-> 	ΙΟΥΛΙΟΥ : CORRECT
+H : Η 
+-> 	Η : CORRECT
+AUGOUSTOU : ΑΥΓΟΥΣΤΟΥ 
+-> 	ΑΥΓΟΥΣΤΟΥ : CORRECT
+EXW : ΕΧΩ 
+-> 	ΕΧΩ : CORRECT
+KAI : ΚΑΙ 
+-> 	ΚΑΙ : CORRECT
+ALLES : ΑΛΛΕΣ 
+-> 	ΑΛΛΕΣ : CORRECT
+MERES : ΜΕΡΕΣ 
+-> 	ΜΕΡΕΣ : CORRECT
+TELOS : ΤΕΛΟΣ 
+-> 	ΤΕΛΟΣ : CORRECT
+AUGOUSTOU : ΑΥΓΟΥΣΤΟΥ 
+-> 	ΑΥΓΟΥΣΤΟΥ : CORRECT
+O : Ο 
+-> 	Ο : CORRECT
+KAIROS : ΚΑΙΡΟΣ 
+-> 	ΚΑΙΡΟΣ : CORRECT
+EDW : ΕΔΩ 
+-> 	ΕΔΩ : CORRECT
+EINAI : ΕΙΝΑΙ 
+-> 	ΕΙΝΑΙ : CORRECT
+IDIAITERA : ΙΔΙΑΙΤΕΡΑ 
+-> 	ΙΔΙΑΙΤΕΡΑ : CORRECT
+ZESTOS : ΖΕΣΤΟΣ 
+-> 	ΖΕΣΤΟΣ : CORRECT
+EFTASA : ΕΦΤΑΣΑ 
+-> 	ΕΦΤΑΣΑ : CORRECT
+STIS : ΣΤΙΣ 
+-> 	ΣΤΙΣ : CORRECT
+BERMOUDES : ΒΕΡΜΟΥΔΕΣ 
+-> 	ΒΕΡΜΟΥΔΕΣ : CORRECT
+TI : ΤΙ 
+-> 	ΤΙ : CORRECT
+DEUTERA : ΔΕΥΤΕΡΑ 
+-> 	ΔΕΥΤΕΡΑ : CORRECT
+TO : ΤΟ 
+-> 	ΤΟ : CORRECT
+APOGEUMA : ΑΠΟΓΕΥΜΑ 
+-> 	ΑΠΟΓΕΥΜΑ : CORRECT
+KAI : ΚΑΙ 
+-> 	ΚΑΙ : CORRECT
+XTHES : ΧΘΕΣ 
+-> 	ΧΘΕΣ : CORRECT
+MAS : ΜΑΣ 
+-> 	ΜΑΣ : CORRECT
+XTIPISE : ΧΤΥΠΗΣΕ 
+-> 	ΧΤΥΠΗΣΕ : CORRECT
+O : Ο 
+-> 	Ο : CORRECT
+GERT : ΓΚΕΡΤ 
+-> 	ΓΚΕΡΤ : CORRECT
+ALLA : ΑΛΛΑ 
+-> 	ΑΛΛΑ : CORRECT
+APATI : ΑΠΑΤΗ 
+-> 	ΑΠΑΤΗ : CORRECT
+TELIKA : ΤΕΛΙΚΑ 
+-> 	ΤΕΛΙΚΑ : CORRECT
+MONO : ΜΟΝΟ 
+-> 	ΜΟΝΟ : CORRECT
+TA : ΤΑ 
+-> 	ΤΑ : CORRECT
+SPITIA : ΣΠΙΤΙΑ 
+-> 	ΣΠΙΤΙΑ : CORRECT
+POU : ΠΟΥ 
+-> 	ΠΟΥ : CORRECT
+ITAN : ΗΤΑΝ 
+-> 	ΗΤΑΝ : CORRECT
+AKRIBWS : ΑΚΡΙΒΩΣ 
+-> 	ΑΚΡΙΒΩΣ : CORRECT
+PANW : ΠΑΝΩ 
+-> 	ΠΑΝΩ : CORRECT
+STIN : ΣΤΗΝ 
+-> 	ΣΤΗΝ : CORRECT
+PARALIA : ΠΑΡΑΛΙΑ 
+-> 	ΠΑΡΑΛΙΑ : CORRECT
+KINDUNEPSAN : ΚΙΝΔΥΝΕΨΑΝ 
+-> 	ΚΙΝΔΥΝΕΨΑΝ : CORRECT
+APO : ΑΠΟ 
+-> 	ΑΠΟ : CORRECT
+TO : ΤΟ 
+-> 	ΤΟ : CORRECT
+KUMA : ΚΥΜΑ 
+-> 	ΚΥΜΑ : CORRECT
+TO : ΤΟ 
+-> 	ΤΟ : CORRECT
+MONO : ΜΟΝΟ 
+-> 	ΜΟΝΟ : CORRECT
+KAKO : ΚΑΚΟ 
+-> 	ΚΑΚΟ : CORRECT
+EINAI : ΕΙΝΑΙ 
+-> 	ΕΙΝΑΙ : CORRECT
+OTI : ΟΤΙ 
+-> 	ΟΤΙ : CORRECT
+MOU : ΜΟΥ 
+-> 	ΜΟΥ : CORRECT
+KOPIKE : ΚΟΠΗΚΕ 
+-> 	ΚΟΠΗΚΕ : CORRECT
+TO : ΤΟ 
+-> 	ΤΟ : CORRECT
+REUMA : ΡΕΥΜΑ 
+-> 	ΡΕΥΜΑ : CORRECT
+GIA : ΓΙΑ 
+-> 	ΓΙΑ : CORRECT
+KAMIA : ΚΑΜΙΑ 
+-> 	ΚΑΜΙΑ : CORRECT
+DEKARIA : ΔΕΚΑΡΙΑ 
+-> 	ΔΕΚΑΡΙΑ : CORRECT
+WRES : ΩΡΕΣ 
+-> 	ΩΡΕΣ : CORRECT
+XTHES : ΧΘΕΣ 
+-> 	ΧΘΕΣ : CORRECT
+GEIA : ΓΕΙΑ 
+-> 	ΓΕΙΑ : CORRECT
+SOU : ΣΟΥ 
+-> 	ΣΟΥ : CORRECT
+MOLIS : ΜΟΛΙΣ 
+-> 	ΜΟΛΙΣ : CORRECT
+EPESTREPSA : ΕΠΕΣΤΡΕΨΑ 
+-> 	ΕΠΕΣΤΡΕΨΑ : CORRECT
+APO : ΑΠΟ 
+-> 	ΑΠΟ : CORRECT
+TO : ΤΟ 
+-> 	ΤΟ : CORRECT
+AIGAIO : ΑΙΓΑΙΟ 
+-> 	ΑΙΓΑΙΟ : CORRECT
+PERASAME : ΠΕΡΑΣΑΜΕ 
+-> 	ΠΕΡΑΣΑΜΕ : CORRECT
+KALA : ΚΑΛΑ 
+-> 	ΚΑΛΑ : CORRECT
+PIGAME : ΠΗΓΑΜΕ 
+-> 	ΠΗΓΑΜΕ : CORRECT
+KALUMNO : ΚΑΛΥΜΝΟ 
+-> 	ΚΑΛΥΜΝΟ : CORRECT
+GIA : ΓΙΑ 
+-> 	ΓΙΑ : CORRECT
+MERES : ΜΕΡΕΣ 
+-> 	ΜΕΡΕΣ : CORRECT
+KAI : ΚΑΙ 
+-> 	ΚΑΙ : CORRECT
+RODO : ΡΟΔΟ 
+-> 	ΡΟΔΟ : CORRECT
+GIA : ΓΙΑ 
+-> 	ΓΙΑ : CORRECT
+MERES : ΜΕΡΕΣ 
+-> 	ΜΕΡΕΣ : CORRECT
+ALLA : ΑΛΛΑ 
+-> 	ΑΛΛΑ : CORRECT
+DUSTUXOS : ΔΥΣΤΥΧΟΣ 
+-> 	ΔΥΣΤΥΧΟΣ : CORRECT
+POLU : ΠΟΛΥ 
+-> 	ΠΟΛΥ : CORRECT
+LIGES : ΛΙΓΕΣ 
+-> 	ΛΙΓΕΣ : CORRECT
+MERES : ΜΕΡΕΣ 
+-> 	ΜΕΡΕΣ : CORRECT
+KRATISAN : ΚΡΑΤΗΣΑΝ 
+-> 	ΚΡΑΤΗΣΑΝ : CORRECT
+OI : ΟΙ 
+-> 	ΟΙ : CORRECT
+DIAKOPES : ΔΙΑΚΟΠΕΣ 
+-> 	ΔΙΑΚΟΠΕΣ : CORRECT
+EFETOS : ΕΦΕΤΟΣ 
+-> 	ΕΦΕΤΟΣ : CORRECT
+AISTHANOMAI : ΑΙΣΘΑΝΟΜΑΙ 
+-> 	ΑΙΣΘΑΝΟΜΑΙ : CORRECT
+OTI : ΟΤΙ 
+-> 	ΟΤΙ : CORRECT
+XREIAZOMOUN : ΧΡΕΙΑΖΟΜΟΥΝ 
+-> 	ΧΡΕΙΑΖΟΜΟΥΝ : CORRECT
+NA : ΝΑ 
+-> 	ΝΑ : CORRECT
+VREXO : ΒΡΕΧΩ 
+-> 	ΒΡΕΧΩ : CORRECT
+TO : ΤΟ 
+-> 	ΤΟ : CORRECT
+KEFALI : ΚΕΦΑΛΙ 
+-> 	ΚΕΦΑΛΙ : CORRECT
+MOU : ΜΟΥ 
+-> 	ΜΟΥ : CORRECT
+AKOMI : ΑΚΟΜΗ 
+-> 	ΑΚΟΜΗ : CORRECT
+GIA : ΓΙΑ 
+-> 	ΓΙΑ : CORRECT
+EVDOMADES : ΕΒΔΟΜΑΔΕΣ 
+-> 	ΕΒΔΟΜΑΔΕΣ : CORRECT
+STO : ΣΤΟ 
+-> 	ΣΤΟ : CORRECT
+AIGAIO : ΑΙΓΑΙΟ 
+-> 	ΑΙΓΑΙΟ : CORRECT
+GIA : ΓΙΑ 
+-> 	ΓΙΑ : CORRECT
+FULL : FULL 
+-> 	FULL : CORRECT
+RECOVERY : RECOVERY 
+-> 	RECOVERY : CORRECT
+SAS : ΣΑΣ 
+-> 	ΣΑΣ : CORRECT
+EFXARISTW : ΕΥΧΑΡΙΣΤΩ 
+-> 	ΕΥΧΑΡΙΣΤΩ : CORRECT
+KATARXHN : ΚΑΤΑΡΧΗΝ 
+-> 	ΚΑΤΑΡΧΗΝ : CORRECT
+POU : ΠΟΥ 
+-> 	ΠΟΥ : CORRECT
+TOSO : ΤΟΣΟ 
+-> 	ΤΟΣΟ : CORRECT
+GRHGORA : ΓΡΗΓΟΡΑ 
+-> 	ΓΡΗΓΟΡΑ : CORRECT
+ASXOLHTHHKATE : ΑΣΧΟΛΗΘΗΚΑΤΕ 
+-> 	ΑΣΧΟΛΗΘΗΚΑΤΕ : CORRECT
+ME : ΜΕ 
+-> 	ΜΕ : CORRECT
+TA : ΤΑ 
+-> 	ΤΑ : CORRECT
+MONDELA : ΜΟΝΤΕΛΑ 
+-> 	 : UNMATCHED
+POU : ΠΟΥ 
+-> 	ΠΟΥ : CORRECT
+SAS : ΣΑΣ 
+-> 	ΣΑΣ : CORRECT
+ZHTHSA : ΖΗΤΗΣΑ 
+-> 	ΖΗΤΗΣΑ : CORRECT
+PROSPATHHSA : ΠΡΟΣΠΑΘΗΣΑ 
+-> 	ΠΡΟΣΠΑΘΗΣΑ : CORRECT
+NA : ΝΑ 
+-> 	ΝΑ : CORRECT
+EPIKOINWNHSW : ΕΠΙΚΟΙΝΩΝΗΣΩ 
+-> 	ΕΠΙΚΟΙΝΩΝΗΣΩ : CORRECT
+NWRITERA : ΝΩΡΙΤΕΡΑ 
+-> 	ΝΩΡΙΤΕΡΑ : CORRECT
+MAZI : ΜΑΖΙ 
+-> 	ΜΑΖΙ : CORRECT
+SAS : ΣΑΣ 
+-> 	ΣΑΣ : CORRECT
+ALLA : ΑΛΛΑ 
+-> 	ΑΛΛΑ : CORRECT
+EIXE : ΕΙΧΕ 
+-> 	ΕΙΧΕ : CORRECT
+DIAKOPEI : ΔΙΑΚΟΠΕΙ 
+-> 	ΔΙΑΚΟΠΕΙ : CORRECT
+H : Η 
+-> 	Η : CORRECT
+SYNDESH : ΣΥΝΔΕΣΗ 
+-> 	ΣΥΝΔΕΣΗ : CORRECT
+ME : ΜΕ 
+-> 	ΜΕ : CORRECT
+AMERIKH : ΑΜΕΡΙΚΗ 
+-> 	ΑΜΕΡΙΚΗ : CORRECT
+O : Ο 
+-> 	Ο : CORRECT
+WILLIAM : WILLIAM 
+-> 	WILLIAM : CORRECT
+ESTEILE : ΕΣΤΕΙΛΕ 
+-> 	ΕΣΤΕΙΛΕ : CORRECT
+KAI : ΚΑΙ 
+-> 	ΚΑΙ : CORRECT
+SE : ΣΕ 
+-> 	ΣΕ : CORRECT
+EMENA : ΕΜΕΝΑ 
+-> 	ΕΜΕΝΑ : CORRECT
+TO : ΤΟ 
+-> 	ΤΟ : CORRECT
+EMAIL : EMAIL 
+-> 	EMAIL : CORRECT
+POU : ΠΟΥ 
+-> 	ΠΟΥ : CORRECT
+ESTEILE : ΕΣΤΕΙΛΕ 
+-> 	ΕΣΤΕΙΛΕ : CORRECT
+KAI : ΚΑΙ 
+-> 	ΚΑΙ : CORRECT
+SE : ΣΕ 
+-> 	ΣΕ : CORRECT
+ESAS : ΕΣΑΣ 
+-> 	ΕΣΑΣ : CORRECT
+ALLA : ΑΛΛΑ 
+-> 	ΑΛΛΑ : CORRECT
+THEWRHSA : ΘΕΩΡΗΣΑ 
+-> 	ΘΕΩΡΗΣΑ : CORRECT
+KALYTERO : ΚΑΛΥΤΕΡΟ 
+-> 	ΚΑΛΥΤΕΡΟ : CORRECT
+NA : ΝΑ 
+-> 	ΝΑ : CORRECT
+APANTHSW : ΑΠΑΝΤΗΣΩ 
+-> 	ΑΠΑΝΤΗΣΩ : CORRECT
+SE : ΣΕ 
+-> 	ΣΕ : CORRECT
+SAS : ΣΑΣ 
+-> 	ΣΑΣ : CORRECT
+POU : ΠΟΥ 
+-> 	ΠΟΥ : CORRECT
+HDH : ΗΔΗ 
+-> 	ΗΔΗ : CORRECT
+DIATHREITE : ΔΙΑΤΗΡΕΙΤΕ 
+-> 	ΔΙΑΤΗΡΕΙΤΕ : CORRECT
+MIA : ΜΙΑ 
+-> 	ΜΙΑ : CORRECT
+EPIKOINVNIA : ΕΠΙΚΟΙΝΩΝΙΑ 
+-> 	ΕΠΙΚΟΙΝΩΝΙΑ : CORRECT
+MAZI : ΜΑΖΙ 
+-> 	ΜΑΖΙ : CORRECT
+TOU : ΤΟΥ 
+-> 	ΤΟΥ : CORRECT
+STO : ΣΤΟ 
+-> 	ΣΤΟ : CORRECT
+STADIO : ΣΤΑΔΙΟ 
+-> 	ΣΤΑΔΙΟ : CORRECT
+POU : ΠΟΥ 
+-> 	ΠΟΥ : CORRECT
+BRISKOMAI : ΒΡΙΣΚΟΜΑΙ 
+-> 	ΒΡΙΣΚΟΜΑΙ : CORRECT
+TWRA : ΤΩΡΑ 
+-> 	ΤΩΡΑ : CORRECT
+OI : ΟΙ 
+-> 	ΟΙ : CORRECT
+FUNCTIONS : FUNCTIONS 
+-> 	FUNCTIONS : CORRECT
+STIS : ΣΤΙΣ 
+-> 	ΣΤΙΣ : CORRECT
+OPOIES : ΟΠΟΙΕΣ 
+-> 	ΟΠΟΙΕΣ : CORRECT
+ANAFERETAI : ΑΝΑΦΕΡΕΤΑΙ 
+-> 	ΑΝΑΦΕΡΕΤΑΙ : CORRECT
+O : Ο 
+-> 	Ο : CORRECT
+WILLIAM : WILLIAM 
+-> 	WILLIAM : CORRECT
+EINAI : ΕΙΝΑΙ 
+-> 	ΕΙΝΑΙ : CORRECT
+UPERARKETES : ΥΠΕΡΑΡΚΕΤΕΣ 
+-> 	ΥΠΕΡΑΡΚΕΤΕΣ : CORRECT
+EAN : ΕΑΝ 
+-> 	ΕΑΝ : CORRECT
+OMWS : ΟΜΩΣ 
+-> 	ΟΜΩΣ : CORRECT
+EXEI : ΕΧΕΙ 
+-> 	ΕΧΕΙ : CORRECT
+KAI : ΚΑΙ 
+-> 	ΚΑΙ : CORRECT
+TA : ΤΑ 
+-> 	ΤΑ : CORRECT
+DEDOMENA : ΔΕΔΟΜΕΝΑ 
+-> 	ΔΕΔΟΜΕΝΑ : CORRECT
+TWN : ΤΩΝ 
+-> 	ΤΩΝ : CORRECT
+MONDELWN : ΜΟΝΤΕΛΩΝ 
+-> 	 : UNMATCHED
+SIGOURA : ΣΙΓΟΥΡΑ 
+-> 	ΣΙΓΟΥΡΑ : CORRECT
+THA : ΘΑ 
+-> 	ΘΑ : CORRECT
+MOU : ΜΟΥ 
+-> 	ΜΟΥ : CORRECT
+FANOUN : ΦΑΝΟΥΝ 
+-> 	ΦΑΝΟΥΝ : CORRECT
+XRHSIMA : ΧΡΗΣΙΜΑ 
+-> 	ΧΡΗΣΙΜΑ : CORRECT
+STO : ΣΤΟ 
+-> 	ΣΤΟ : CORRECT
+MELLON : ΜΕΛΛΟΝ 
+-> 	ΜΕΛΛΟΝ : CORRECT
+EFXARISTW : ΕΥΧΑΡΙΣΤΩ 
+-> 	ΕΥΧΑΡΙΣΤΩ : CORRECT
+ERXOMAI : ΕΡΧΟΜΑΙ 
+-> 	ΕΡΧΟΜΑΙ : CORRECT
+ME : ΜΕ 
+-> 	ΜΕ : CORRECT
+TIN : ΤΗΝ 
+-> 	ΤΗΝ : CORRECT
+PTISI : ΠΤΗΣΗ 
+-> 	ΠΤΗΣΗ : CORRECT
+TIS : ΤΙΣ 
+-> 	ΤΙΣ : CORRECT
+OLIMPIAKIS : ΟΛΥΜΠΙΑΚΗΣ 
+-> 	ΟΛΥΜΠΙΑΚΗΣ : CORRECT
+POU : ΠΟΥ 
+-> 	ΠΟΥ : CORRECT
+FEUGEI : ΦΕΥΓΕΙ 
+-> 	ΦΕΥΓΕΙ : CORRECT
+APO : ΑΠΟ 
+-> 	ΑΠΟ : CORRECT
+ATHINA : ΑΘΗΝΑ 
+-> 	ΑΘΗΝΑ : CORRECT
+STIS : ΣΤΙΣ 
+-> 	ΣΤΙΣ : CORRECT
+KAI : ΚΑΙ 
+-> 	ΚΑΙ : CORRECT
+FTANEI : ΦΤΑΝΕΙ 
+-> 	ΦΤΑΝΕΙ : CORRECT
+KATA : ΚΑΤΑ 
+-> 	ΚΑΤΑ : CORRECT
+TIS : ΤΙΣ 
+-> 	ΤΙΣ : CORRECT
+ORA : ΩΡΑ 
+-> 	ΟΡΑ : WRONG
+AMERIKIS : ΑΜΕΡΙΚΗΣ 
+-> 	ΑΜΕΡΙΚΗΣ : CORRECT
+DEN : ΔΕΝ 
+-> 	ΔΕΝ : CORRECT
+ITHELA : ΗΘΕΛΑ 
+-> 	ΗΘΕΛΑ : CORRECT
+NA : ΝΑ 
+-> 	ΝΑ : CORRECT
+SE : ΣΕ 
+-> 	ΣΕ : CORRECT
+VALLW : ΒΑΛΛΩ 
+-> 	ΒΑΛΛΩ : CORRECT
+SE : ΣΕ 
+-> 	ΣΕ : CORRECT
+KOPO : ΚΟΠΟ 
+-> 	ΚΟΠΟ : CORRECT
+OPOTE : ΟΠΟΤΕ 
+-> 	ΟΠΟΤΕ : CORRECT
+KANONISA : ΚΑΝΟΝΙΣΑ 
+-> 	ΚΑΝΟΝΙΣΑ : CORRECT
+NA : ΝΑ 
+-> 	ΝΑ : CORRECT
+ERTHEI : ΕΡΘΕΙ 
+-> 	ΕΡΘΕΙ : CORRECT
+ENAS : ΕΝΑΣ 
+-> 	ΕΝΑΣ : CORRECT
+FILOS : ΦΙΛΟΣ 
+-> 	ΦΙΛΟΣ : CORRECT
+NA : ΝΑ 
+-> 	ΝΑ : CORRECT
+ME : ΜΕ 
+-> 	ΜΕ : CORRECT
+PAREI : ΠΑΡΕΙ 
+-> 	ΠΑΡΕΙ : CORRECT
+KAI : ΚΑΙ 
+-> 	ΚΑΙ : CORRECT
+THA : ΘΑ 
+-> 	ΘΑ : CORRECT
+MEINO : ΜΕΙΝΩ 
+-> 	ΜΕΙΝΩ : CORRECT
+BOSTON : BOSTON 
+-> 	BOSTON : CORRECT
+TO : ΤΟ 
+-> 	ΤΟ : CORRECT
+SAVVATO : ΣΑΒΒΑΤΟ 
+-> 	ΣΑΒΒΑΤΟ : CORRECT
+THA : ΘΑ 
+-> 	ΘΑ : CORRECT
+SE : ΣΕ 
+-> 	ΣΕ : CORRECT
+PARO : ΠΑΡΩ 
+-> 	ΠΑΡΟ : WRONG
+APO : ΑΠΟ 
+-> 	ΑΠΟ : CORRECT
+AMERIKI : ΑΜΕΡΙΚΗ 
+-> 	ΑΜΕΡΙΚΗ : CORRECT
+TO : ΤΟ 
+-> 	ΤΟ : CORRECT
+APOGEUMA : ΑΠΟΓΕΥΜΑ 
+-> 	ΑΠΟΓΕΥΜΑ : CORRECT
+TOU : ΤΟΥ 
+-> 	ΤΟΥ : CORRECT
+SAVVATOU : ΣΑΒΒΑΤΟΥ 
+-> 	ΣΑΒΒΑΤΟΥ : CORRECT
+GIA : ΓΙΑ 
+-> 	ΓΙΑ : CORRECT
+NA : ΝΑ 
+-> 	ΝΑ : CORRECT
+MILISOUME : ΜΙΛΗΣΟΥΜΕ 
+-> 	ΜΙΛΗΣΟΥΜΕ : CORRECT
+POS : ΠΩΣ 
+-> 	ΠΩΣ : CORRECT
+THA : ΘΑ 
+-> 	ΘΑ : CORRECT
+SINANTITHOUME : ΣΥΝΑΝΤΗΘΟΥΜΕ 
+-> 	ΣΥΝΑΝΤΗΘΟΥΜΕ : CORRECT
+TIN : ΤΗΝ 
+-> 	ΤΗΝ : CORRECT
+KIRIAKI : ΚΥΡΙΑΚΗ 
+-> 	ΚΥΡΙΑΚΗ : CORRECT
+EUXARISTO : ΕΥΧΑΡΙΣΤΩ 
+-> 	ΕΥΧΑΡΙΣΤΟ : WRONG
+POLY : ΠΟΛΥ 
+-> 	ΠΟΛΥ : CORRECT
+
+right: 95.64% wrong: 3.37%
+wrong convertion to greek: 0.00% unmatched: 0.99% 
