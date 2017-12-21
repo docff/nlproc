@@ -1,0 +1,153 @@
+\documentclass{article}
+
+\usepackage{graphicx}
+\usepackage[utf8]{inputenc}
+\usepackage{tikz}
+\usepackage{mathtools}
+\usepackage[greek]{babel}
+\usepackage[export]{adjustbox}
+\usepackage{float}
+\usepackage{caption}
+
+\title{\underline{1η Εργαστηριακή Άσκηση}\\
+	   \underline{Επεξεργασίας Φωνής και Φυσικής Γλώσσας}}
+\date{20-11-2017}
+\author{Γιώργος Ξυπόλιτος 03113629}
+
+\begin{document}
+
+\pagenumbering{gobble}
+\begin{figure}[h]
+	\centering
+	\includegraphics[keepaspectratio]{pictures/promitheas.png}
+	\maketitle
+\end{figure}
+
+\newpage
+\pagenumbering{arabic}
+
+\section*{Σκοπός της Άσκησης}
+\ \ \ Σκοπός του υπόλοιπου μέρους της εργαστηριακής άσκησης είναι η χρήση των \textlatin{transducers} και \textlatin{acceptors} που κατασκευάστηκαν στο προπαρασκευαστικό μέρος, για την κατασκευή ενός μετατροπέα \textlatin{greeklish} σε \textlatin{greek} και η επέκτασή του με την χρήση ενός ορθογράφου για την διόρθωση τυχόν λαθών.
+
+\subsection*{Βήματα 8, 9, 10, 11}
+\ \ \ Αρχικά ενώνουμε τους δύο \textlatin{acceptors} των λεξικών, για την δημιουργία ενός \textlatin{acceptor} που δέχεται τις λέξεις που υπάρχουν στα αντίστοιχα λεξικά. Ενώνουμε τον αποδοχέα με την κλειστότητα της ένωσης των \textlatin{transducers G} και \textlatin{I}, ώστε να δημιουργηθεί ένας \textlatin{transducer T} ο οποίος μετατρέπει λέξεις σε \textlatin{greeklish} σε ελληνικές, ενώ αφήνει αμετάβλητες τις αγγλικές. \par
+Έπειτα, για κάθε λέξη που βρίσκεται στο αρχείο \textlatin{text\_greng.txt} δημιουργούμε έναν αποδοχέα της και τον συνθέτουμε με τον \textlatin{transducer T} και βρίσκουμε το καλύτερο μονοπάτι πάνω του. Έτσι βρίσκουμε την πιο πιθανή μετατροπή σε ελληνικά της εκάστοτε λέξης, την οποία και συγκρίνουμε με την αντίστοιχη της στο αρχείο \textlatin{test\_gr.txt}. \par
+Τα αποτελέσματα του παραπάνω βήματος βρίσκονται στον φάκελο \textlatin{final\_output} στο αρχείο \textlatin{out\_v1.txt} και η ακρίβεια του συστήματος ήταν η εξής: \\
+\begin{center}
+	\begin{tabular}{|| c | c ||}
+	\hline
+	\textit{\textlatin{Conversions}} & \textit{\textlatin{Accuracy}} \\ [0.5ex]
+	\hline\hline
+	\textlatin{Unmatched} & 0.99\% \\
+	\hline
+	\textlatin{English to Greek} & 0.00\% \\
+	\hline
+	\textlatin{False} & 3.37\% \\
+	\hline
+	\textbf{\textlatin{Correct}} & \textbf{95.64\%} \\ [1ex]
+	\hline
+	\end{tabular}
+\end{center}
+
+\subsection*{Βήμα 12}
+\ \ \ Παίρνοντας τα δεδομένα που δίνονται στα αρχεία \textlatin{train\_wr.txt, train\_co.txt} και συγκρίνοντάς μέσω του \textlatin{script C.py} υπολογίζονται τα πλήθη λαθών εισαγωγής,  διαγραφής, αντικατάστασης και αναδιάταξης χαρακτήρων. Μέσω αυτών, υπολογίζονται οι πιθανότητες και τα αντίστοιχα βάρη που θα τοποθετηθούν στα επόμενα \textlatin{transducers}. \par
+Ο τρόπος σύγκρισης των λαθών των δύο κειμένων φαίνεται στο αρχείο \textlatin{convertions.txt} του φακέλου \textlatin{final\_output}. Για τα λάθη ισχύει ότι όταν γράμματα της λανθασμένης και της σωστής λέξης διαφέρουν, τότε υπάρχει λάθος. Άμα δύο γράμματα της λανθασμένης λέξης  αντιστοιχούν σε ένα γράμμα της σωστής λέξης, ενώ και τα δύο γράμμα της λανθασμένης λέξης διαφέρουν από το αντίστοιχο της σωστής, τότε θεωρείται λάθος διαγραφής και αντικατάστασης, αλλιώς απλώς αντικατάστασης. Ανάποδα, όταν ένα γράμμα της λανθασμένης λέξης αντιστοιχεί σε δύο γράμματα της σωστής, ενώ και τα δύο γράμματα της σωστής διαφέρουν από της λανθασμένης, τότε θεωρείται λάθος εισαγωγής και αντικατάστασης, αλλιώς απλώς αντικατάστασης. Αν απλώς ένα γράμμα λείπει από την λανθασμένη, τότε θεωρείται λάθος διαγραφής. Ομοίως, αν υπάρχει παραπάνω γράμμα στην λανθασμένη λέξη, τότε θεωρείται λάθος εισαγωγής. Επίσης, άμα δύο γράμματα της λανθασμένης είναι όμοια εναλλάξ με τα αντίστοιχα δύο γράμματα της σωστής, τότε θεωρείται λάθος αναδιάταξης. Τέλος, αν μόνο ένα γράμμα διαφέρει και δεν ισχύει κάποιος από τους παραπάνω κανόνες, τότε θεωρείται λάθος αντικατάστασης, αλλιώς δεν υπάρχει λάθος. \par
+Επειδή οι κανόνες που δημιουργούνται δεν υπάρχουν για κάθε σύμβολο των \textlatin{transducers}, θεωρήθηκε ένα βάρος για κάθε μία από τις παραπάνω κατηγορίες λαθών. Οι πιθανότητες και τα αντίστοιχα βάρη ήταν: \\
+\begin{center}
+	\begin{tabular}{|| c | c | c ||}
+	\hline
+	\textit{\textlatin{Error Type}} & \textit{\textlatin{Probability}} & \textit{\textlatin{Negative Log (Weight)}} \\ [0.5ex]
+	\hline\hline
+	\textlatin{Insertion} & 0.05\% & 2.9281 \\
+	\hline
+	\textlatin{Deletion} & 0.03\% & 3.4136 \\
+	\hline
+	\textlatin{Substitution} & 0.11\% & 2.1880 \\
+	\hline
+	\textlatin{Rearrangement} & 0.01\% & 4.4815 \\ [1ex]
+	\hline
+	\end{tabular}
+\end{center}\par
+Για τον μετατροπέα Ι, δημιουργήθηκαν δύο καταστάσεις, μία αρχική και μια τελική και συνδέθηκαν με τόξα, ένα για κάθε γράμμα της αγγλικής και της ελληνικής αλφαβήτου, που ξεκινούσαν από την αρχική και κατέληγαν στην τελική, όπου ως ετικέτες είχαν τα γράμματα και μηδενικά βάρη. \par
+Για τον μετατροπέα Ε, δημιουργήθηκαν τα ίδια τόξα με τον Ι και επιπλέον δημιουργήθηκαν ετικέτες και καταστάσεις για όλους τους τύπους λαθών. Συγκεκριμένα, για τα λάθη εισαγωγης δημιουργήθηκαν τόξα μεταξύ της αρχικής και της τελικής κατάστασης, με ετικέτες όπου μετέτρεπαν την έψιλον κατάσταση σε όλα τα γράμματα της αλφαβήτου. Για τα λάθη διαγραφής δημιουργήθηκαν τόξα μεταξύ της αρχικής και της τελικής κατάστασης, με ετικέτες που μετέτρεπαν όλα τα γράμμματα της αλφαβήτου σε έψιλον καταστάσης. Για τα λάθης αντικατάστασης, δημιουργήθηκαν τόξα μεταξύ της αρχικής και της τελικής κατάστασης, με ετικέτες που μετέτρεπαν όλα τα γράμματα της αλφαβήτου σε όλα τα υπόλοιπα γράμματα. Τέλος, για τα λάθη αναδιάταξης χρειάστηκε να δημιουργηθούν επιπλέον βοηθητικές καταστάσεις, μία για κάθε αναδιάταξη γραμμάτων. Δηλαδή, υπήρχε μετάβαση από την αρχική κατάσταση στην εκάστοτε βοηθητική με ετικέτα που μετέτρεπε ένα γράμμα σε ένα άλλο(διαφορετικά μεταξύ τους) και μία μετάβαση από την βοηθητική στην τελική όπου μετέτρεπε το γράμμα που είχαμε ως έξοδο στο γράμμα που είχαμε ως είσοδο στην προηγούμενη μετάβαση που μας έφερε στην βοηθητική. \par
+Για την δημιουργία του \textlatin{S1} δημιουργήθηκε το \textlatin{closure} του I, το οποίο έγινε \textlatin{concatenated} με το Ε και έπειτα με τον εαυτό του πάλι. \par
+Για την δημιουργία του \textlatin{S2} έγινε \textlatin{concatenation} του \textlatin{S1} με το Ε και έπειτα με το \textlatin{closure} του Ι. \par
+Ο μετατροπέας \textlatin{L} αντιστοιχεί στην ένωση των λεξικών Α1, Α2 που δημιουργήθηκαν στο προπαρασκευαστικό μέρος της εργασίας. \par
+Η σύγκριση του \textlatin{test\_co.txt} με το \textlatin{test\_wr.txt} έγινε όμοια με το βήμα 11, με την διαφορά ότι αντί του Τ γινόταν σύνθεση του \textlatin{W} με το \textlatin{S1} ή το \textlatin{S2} και έπειτα με το \textlatin{L}.
+\newpage
+Τα αποτελέσματα για το \textlatin{S1} και το \textlatin{S2} βρίσκονται στα αρχεία \textlatin{out\_v21.txt, out\_v22.txt} του φακέλου \textlatin{final\_output} και τα αντίστοιχα στατιστικά είναι: \\
+
+\begin{minipage}{0.45\textwidth}
+	\centering
+	\captionof*{table}{\underline{\textlatin{Results S1}}}
+	\begin{tabular}{|| c | c ||}
+	\hline
+	\textit{\textlatin{Conversions}} & \textit{\textlatin{Accuracy}} \\ [0.5ex]
+	\hline\hline
+	\textlatin{Unmatched} & 3.88\% \\
+	\hline
+	\textlatin{False} & 10.19\% \\
+	\hline
+	\textbf{\textlatin{Correct}} & \textbf{85.92\%} \\ [1ex]
+	\hline
+	\end{tabular}
+\end{minipage}\hfill
+\begin{minipage}{0.45\textwidth}
+	\centering
+	\captionof*{table}{\underline{\textlatin{Results S2}}}
+	\begin{tabular}{|| c | c ||}
+	\hline
+	\textit{\textlatin{Conversions}} & \textit{\textlatin{Accuracy}} \\ [0.5ex]
+	\hline\hline
+	\textlatin{Unmatched} & 0.49\% \\
+	\hline
+	\textlatin{False} & 16.02\% \\
+	\hline
+	\textbf{\textlatin{Correct}} & \textbf{83.50\%} \\ [1ex]
+	\hline
+	\end{tabular}
+\end{minipage} \\
+\\
+
+Με την χρήση των \textlatin{S1, S2} παρατηρείται ότι παρά την δυνατότητα διόρθωσης μιας λέξεις, ακόμη υπάρχουν μη αναγνωρισμένες λέξεις και καθώς δεν συνυπολογίζονται τα συμφραζόμενα, το ποσοστό επιτυχίας είναι σχετικά μικρό. \par
+Για το τελευταίο βήμα πήραμε την σύνθεση του αποδοχέα της εκάστοτε λέξης με το \textlatin{closure} της ένωσης του \textlatin{G} και του Ι, έπειτα το συνθέσαμε με είτε το \textlatin{S1} είτε το \textlatin{S2} και έπειτα με το \textlatin{L} και παίρνουμε το ελάχιστο μονοπάτι. Έτσι πήραμε την καλύτερη διορθωμένη μετατροπή μιας λέξης από \textlatin{greeklish} σε ελληνικά ή αγγλικά. \par
+Τα αποτελέσματα για το \textlatin{S1} και το \textlatin{S2} βρίσκονται στα αρχεία \textlatin{out\_v31.txt, out\_v32.txt} του φακέλου \textlatin{final\_output} και τα αντίστοιχα στατιστικά είναι: \\
+\\
+\begin{minipage}{0.45\textwidth}
+	\centering
+	\captionof*{table}{\underline{\textlatin{Results S1}}}
+	\begin{tabular}{|| c | c ||}
+	\hline
+	\textit{\textlatin{Conversions}} & \textit{\textlatin{Accuracy}} \\ [0.5ex]
+	\hline\hline
+	\textlatin{Unmatched} & 0.00\% \\
+	\hline
+	\textlatin{English to Greek} & 1.78\% \\
+	\hline
+	\textlatin{False} & 7.52\% \\
+	\hline
+	\textbf{\textlatin{Correct}} & \textbf{90.69\%} \\ [1ex]
+	\hline
+	\end{tabular}
+\end{minipage}\hfill
+\begin{minipage}{0.45\textwidth}
+	\centering
+	\captionof*{table}{\underline{\textlatin{Results S2}}}
+	\begin{tabular}{|| c | c ||}
+	\hline
+	\textit{\textlatin{Conversions}} & \textit{\textlatin{Accuracy}} \\ [0.5ex]
+	\hline\hline
+	\textlatin{Unmatched} & 0.00\% \\
+	\hline
+	\textlatin{English to Greek} & 2.18\% \\
+	\hline
+	\textlatin{False} & 9.90\% \\
+	\hline
+	\textbf{\textlatin{Correct}} & \textbf{87.92\%} \\ [1ex]
+	\hline
+	\end{tabular}
+\end{minipage} \\
+\\
+
+Όπως φαίνεται από τα αποτελέσματα η προσθήκη διορθωτή μηδένισε τις λέξεις που δεν αναγνωρίζονταν λόγω ορθογραφικών λαθών, αλλά μείωσε το ποσοστό των σωστών μετατροπών. Αυτό οφείλεται αρχικά στην ανακρίβεια του μοντέλου μας, καθώς είναι ισοπίθανοι όλοι οι συνδυασμοί που αφορούν ένα τύπο λάθους, κάτι που φυσικά δεν ανταποκρίνεται στην πραγματικότητα. Δεύτερον, όπως αναφέρθηκε και προηγουμένως, δεν επηρεάζεται η μετατροπή από τα συμφραζόμενα επομένως η λέξη \textlatin{EYXARISTW} μπορεί να μετατραπεί στην λέξη ΕΥΧΑΡΙΣΤΟ αντί για ΕΥΧΑΡΙΣΤΩ καθώς έχει μικρότερο βάρος, χωρίς να αναγνωρίσει ο μετατροπέας την σημασιολογική της χρήση. Τρίτον, το κείμενο δοκιμής δεν περιέχει ορθογραφικά σφάλματα και τέλος οι αγγλικές λέξεις λόγω του μεγάλου βάρους τους δεν επιλέγονται από τον μετατροπέα, αντιθέτως επιλέγει να τις μετατρέψει σε μια κοντινή ελληνική με μικρότερο βάρος.
+\end{document}
